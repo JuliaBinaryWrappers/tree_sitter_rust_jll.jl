@@ -1,0 +1,113 @@
+[[tree_sitter_rust]]
+arch = "aarch64"
+git-tree-sha1 = "c6e929bcdce126b27829bafd065e4b4655cfe3e6"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "e392a4a87920407278d8bb77fb4d967e607904ef88739d61921a7930ebf60333"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.aarch64-linux-gnu.tar.gz"
+[[tree_sitter_rust]]
+arch = "aarch64"
+git-tree-sha1 = "38c395e379c187c8152b81ad5857b0935b032bd9"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "65dd08bf4582e188a38042969ddafb754b3fd418239509d0027adbbe613dbd0a"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.aarch64-linux-musl.tar.gz"
+[[tree_sitter_rust]]
+arch = "armv7l"
+git-tree-sha1 = "c6672d42234e32681a1548d7282c4b2a814fa877"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "89a321583bfff0f48e3868a18baafce8a282dfdf028339799d7599c00cb2c3cc"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.armv7l-linux-gnueabihf.tar.gz"
+[[tree_sitter_rust]]
+arch = "armv7l"
+git-tree-sha1 = "3899621c9c3ff0b14712a92289bfdeffd3ba27a8"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "1fdf8934c3e0dcc21501d7312aa4fb84c5ea05ba34a08c9135964a04c460c73b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.armv7l-linux-musleabihf.tar.gz"
+[[tree_sitter_rust]]
+arch = "i686"
+git-tree-sha1 = "de557bedfabcbbc3ccad680d0db201fa75911492"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "b341790fc32b99656e5749d4231d3bdca33058236f32499673660acabe348a2e"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.i686-linux-gnu.tar.gz"
+[[tree_sitter_rust]]
+arch = "i686"
+git-tree-sha1 = "a597687e91cfe548060898fa79fa1c046c1d47f3"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "f4e732b22ff7c447f811a133d69552f9596f6c16b142a0bd17707f97052eaa3a"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.i686-linux-musl.tar.gz"
+[[tree_sitter_rust]]
+arch = "i686"
+git-tree-sha1 = "9b76d8f96fb6368265e69afb4225d09d6fcfed54"
+os = "windows"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "793061b4611366673fc8958bcd547911cb98e08de32e727baae0d5ce19fffa15"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.i686-w64-mingw32.tar.gz"
+[[tree_sitter_rust]]
+arch = "powerpc64le"
+git-tree-sha1 = "f40bc8e39c4ad782ecb28a5dfaddd3bb548e532d"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "c142620d16190615889c8ba4c27f4e086748b4ea3934dae7064a527ebbb9c77d"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.powerpc64le-linux-gnu.tar.gz"
+[[tree_sitter_rust]]
+arch = "x86_64"
+git-tree-sha1 = "2602bdf4a041f814694a7d88db772cf46987888e"
+os = "macos"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "146f5b2433bdd3ee2cbae1c3403fdf53126a9b196b4459506ccaaad924b7d3e9"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.x86_64-apple-darwin14.tar.gz"
+[[tree_sitter_rust]]
+arch = "x86_64"
+git-tree-sha1 = "d8a6068eaf54d7dd0ae2e10807f6dbd8d80abe85"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "c808167153b7be9a8812cab013eeef5d5257023eac79b76d38480a853e82845b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.x86_64-linux-gnu.tar.gz"
+[[tree_sitter_rust]]
+arch = "x86_64"
+git-tree-sha1 = "36ce79a52d508f4819736d907ce02399fec62cb4"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "97e86bdc23a673223299022ce50e7bd3d88f4fdf105417d620fe5ec4e3c7abee"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.x86_64-linux-musl.tar.gz"
+[[tree_sitter_rust]]
+arch = "x86_64"
+git-tree-sha1 = "26774630a7f351dacb80e8d04a472ecbe02bb21d"
+os = "freebsd"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "7bd39d31d8b7860cd26576213a29c42c64b0e59c8da40443cdb7bdfa5543f18e"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[tree_sitter_rust]]
+arch = "x86_64"
+git-tree-sha1 = "6de4cc674f857bcc7cb46a348c50f343dd4a4a2f"
+os = "windows"
+
+    [[tree_sitter_rust.download]]
+    sha256 = "be97dd4dcf399d6aa1e283abc96ad5b99c577c6598508de109c44faa14da54a2"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_rust_jll.jl/releases/download/tree_sitter_rust-v0.16.1+0/tree_sitter_rust.v0.16.1.x86_64-w64-mingw32.tar.gz"
